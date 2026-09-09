@@ -3,7 +3,8 @@
 **Система автоматизации ~~почты~~ автосервиса**
 >Хороший автосервис — это когда машина после ремонта едет лучше, чем до поломки
 
-![ ]([https://ya.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fbanner2.cleanpng.com%2F20180716%2Flot%2Faavhfl0so.webp&lr=21&p=3&pos=6&rpt=simage&text=автосервис%20png](https://ya.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F7e%2F84%2Fef%2F7e84efb67b7831d47a9432e8e4745810.jpg&lr=21&pos=3&rpt=simage&text=автосервис%20jpg))
+![ ](<img width="1023" height="558" alt="image" src="https://github.com/user-attachments/assets/0e072aa9-b75f-4284-a42c-a897c8cf66fc" />
+)
 
 ---
 
